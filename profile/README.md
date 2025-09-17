@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://personamachines.ai/combination_logo_light.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://personamachines.ai/combination_logo.png">
-    <img alt="Persona Machines logo" src="https://personamachines.ai/combination_logo.png"  width="full">
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.personamachines.ai/mark_combination/pm_combination_mark_light_bg_trans.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.personamachines.ai/mark_combination/pm_combination_mark_dark_bg_trans.png">
+    <img alt="Persona Machines logo" src="https://www.personamachines.ai/mark_combination/pm_combination_mark_light_bg_trans.png"  width="full">
   </picture>
 
   <h1>Privacy. Control. Value.</h1>
